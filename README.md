@@ -1,3 +1,5 @@
+![image](https://repository-images.githubusercontent.com/518674596/63d2ed24-258c-4d2c-a07d-42e59639b83e)
+
 Eliza
 =======
 Informational JuiceWRLD python discord bot made by: [y9#8009](https://discord.com/users/869395298626187324)
