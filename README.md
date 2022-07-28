@@ -1,6 +1,7 @@
 Eliza
 =======
 Informational JuiceWRLD python discord bot made by: [y9#8009](https://discord.com/users/869395298626187324)
+
 Key Features
 ------------
 
@@ -25,5 +26,5 @@ Setup
 ### How to setup
 Add the bot token on line 107
 ``` py
-token.run("TokenGoesHere")
+eliza.run("TokenGoesHere")
 ```
