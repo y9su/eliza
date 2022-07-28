@@ -1,4 +1,4 @@
-<img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg](https://repository-images.githubusercontent.com/518674596/63d2ed24-258c-4d2c-a07d-42e59639b83e" 
+<img src="https://repository-images.githubusercontent.com/518674596/63d2ed24-258c-4d2c-a07d-42e59639b83e" 
 width="1000" 
 height="300" />
 
