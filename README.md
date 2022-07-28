@@ -1,4 +1,6 @@
-![image](https://repository-images.githubusercontent.com/518674596/63d2ed24-258c-4d2c-a07d-42e59639b83e)
+<img src="https://repository-images.githubusercontent.com/518674596/63d2ed24-258c-4d2c-a07d-42e59639b83e"
+width="400"
+height="500" />
 
 Eliza
 =======
